@@ -1,3 +1,4 @@
 data/dataset_region.nc
 data/datos.csv
 data/measurements.tsv
+src/plots/coverage_results/coverage_stats.csv
