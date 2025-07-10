@@ -48,6 +48,9 @@ project/
 ├── data/
 │   ├── measurements.tsv
 │   └── measurements.csv
+├── notebooks/
+│   ├── download_normalize_data.ipynb
+│   └── modelo_explicativo.ipynb
 ├── results/
 └── README.md
 ```
